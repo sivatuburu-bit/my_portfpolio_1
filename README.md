@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tuburu Sivakumar — React Portfolio
 
 Multi-page dark-theme portfolio built with React, React Router DOM (data router) and Vite.
@@ -55,3 +56,6 @@ Build command `npm run build`, publish directory `dist`. `public/_redirects` mak
 ├── vite.config.js
 └── package.json
 ```
+=======
+# my_portfpolio_1
+>>>>>>> f29af5374cbcb533fded8b682f3273452416ec35
