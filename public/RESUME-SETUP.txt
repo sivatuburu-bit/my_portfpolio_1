@@ -1,0 +1,4 @@
+RESUME PDF SETUP
+Copy your actual resume PDF into this folder and name it exactly: resume.pdf
+The Download Resume buttons point to /resume.pdf.
+Only publish your resume if you are comfortable sharing its contact details publicly.
